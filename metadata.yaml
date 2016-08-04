@@ -1,0 +1,32 @@
+_repo: The-Life-of-Charlotte-Bront----Volume-1_1827
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gaskell, Elizabeth Cleghorn
+    aliases:
+    - Mills, Cotton Mather
+    - Gaskell, Elizabeth Cleghorn Stevenson
+    - Stevenson, Elizabeth
+    - Gaskell, Mrs.
+    - Gaskell, E. C. (Elizabeth Cleghorn)
+    birthdate: 1810
+    deathdate: 1865
+    gutenberg_agent_id: '220'
+    url: http://www.gutenberg.org/2009/agents/220
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Gaskell
+description: ''
+gutenberg_issued: '1999-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brontë, Charlotte, 1816-1855'
+- !lcc 'PR'
+- !lcsh 'Novelists, English -- 19th century -- Biography'
+- GITenberg
+title: The Life of Charlotte Brontë — Volume 1
+url: http://www.gutenberg.org/ebooks/1827
